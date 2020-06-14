@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: heropage2
 title: About
-featured-img: pali_reef_header
 permalink: /about/
 ---
 
-![](/images/forsman.png)
+
+ ![](/images/forsman.png)
 
 I am an evolutionary biologist and ecologist working at the [Hawaiʻi Institute of Marine Biology](http://www.himb.hawaii.edu/), in the [ToBo (Toonen/Bowen) laboratory](http://tobolab.org/people/postdoctoral-researchers/zach-forsman/). I am interested in using molecular tools to learn about evolution and biodiversity. Reef building corals are a fascinating and challenging model system because they form the foundation of a threated and rapidly declining ecosystem. They are an ancient and diverse lineage ancestral to most metazoans, and they form a unique partnership with symbiotic algae. Marine heat waves cause this partnership to break down, leading to coral bleaching and decline.
 
@@ -23,6 +23,6 @@ Coral reefs provide essential habitat for fisheries, shoreline protection, sand 
 ### Reef restoration:
 - Co-discovered the micro-fragmentation method, a coral cultivation method for reef restoration.
 - Worked to establish the DAR Coral Restoration Nursery.
-- Worked to establish the [HIMB Coral Nursery](/HIMB_Coral_Nursery/)
+- Worked to establish the [HIMB Coral Nursery](/himb-coral-nursery)
 
 See my full [CV](/full_cf.pdf), [publications](/publications), or [Google Scholar Profile](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1) for additional information.

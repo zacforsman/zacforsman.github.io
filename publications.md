@@ -1,56 +1,56 @@
 ---
-layout: page
+layout: heropage2
 title: Publications
 permalink: /publications/
 ---
 
-Google Scholar, updated June 2020: h-index 20, i10-index 29, 1,338 citations, • = students mentored
+[Google Scholar](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1), updated June 2020: h-index 20, i10-index 29, 1,338 citations, • = students mentored
 
-***Peer reviewed (n=55)***
+***Peer reviewed (n=55)*** [full cv](/full_CV.pdf)
 
-Terraneo T•, Benzoni F, Arrigoni R, Baird A, Mariappan K, **Forsman ZH**, Wooster M, Bouwmeester J, Marshell A, Berumen M (in press) Phylogenomics and phylogeography of *Porites* from the Arabian Peninsula. Systematic Biology
+Terraneo T•, Benzoni F, Arrigoni R, Baird A, Mariappan K, **Forsman ZH**, Wooster M, Bouwmeester J, Marshell A, Berumen M (*in press*) Phylogenomics and phylogeography of *Porites* from the Arabian Peninsula. Systematic Biology
 
-Wada N, Yuasa H, Kajitani R, Gotoh Y, Ogura Y, Yoshimura D, Toyoda A, Tang S, Higashimura Y, Sweatman H, **Forsman ZH**, Bronstien O, Eyal G, Thongtham N, Hayashi T, Itoh T, Yasuda N (in press). Predominant subcuticular bacteria (Spirochaetia sp.) in the Indo-Pacific crown-of-thorns starfish and its whole genome sequence. Microbiome
+Wada N, Yuasa H, Kajitani R, Gotoh Y, Ogura Y, Yoshimura D, Toyoda A, Tang S, Higashimura Y, Sweatman H, **Forsman ZH**, Bronstien O, Eyal G, Thongtham N, Hayashi T, Itoh T, Yasuda N (*in press*). Predominant subcuticular bacteria (*Spirochaetia sp.*) in the Indo-Pacific crown-of-thorns starfish and its whole genome sequence. Microbiome
 
-Brown N•, **Forsman ZH**, Tisthammer KT•, Richmond RH (2020) A resilient brooding coral in the broadcast spawning *Porites lobata* species complex: a new endemic, introduced species, mutant, or new adaptive potential? Coral Reefs.
+Brown N•, **Forsman ZH**, Tisthammer KT•, Richmond RH (2020) A resilient brooding coral in the broadcast spawning *Porites lobata* species complex: a new endemic, introduced species, mutant, or new adaptive potential? [Coral Reefs.](https://link.springer.com/article/10.1007%2Fs00338-020-01922-w)
 
-Tisthammer KH•, **Forsman ZH**, Toonen RJ, Richmond RH (2020) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. PeerJ
+Tisthammer KH•, **Forsman ZH**, Toonen RJ, Richmond RH (2020) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. [PeerJ](https://peerj.com/articles/8550/)
 
-Bowen BW, **Forsman ZH**, Whitney JL, Faucci A, Hoban M, Canfield SJ, Johnston EC•, Coleman RC, Copus JM•, Vicente J, Toonen RJ (2020) Synthesis: Adaptive Radiations in the Sea: What the Flock? Journal of Heredity
+Bowen BW, **Forsman ZH**, Whitney JL, Faucci A, Hoban M, Canfield SJ, Johnston EC•, Coleman RC, Copus JM•, Vicente J, Toonen RJ (2020) Synthesis: Adaptive Radiations in the Sea: What the Flock? [Journal of Heredity](http://richard-coleman.com/s/Bowen-et-al2020-Species-Radiations-in-the-Sea.pdf)
 
-Capel K•, Lopez C, Molto-Martin I, Zilberberg C, Creed JC, Knapp ISS, Hernandez M, **Forsman ZH**, Toonen RJ, Kitahara M, (2020) Atlantia, a new Dendrophylliidae genus (Cnidaria, Anthozoa, Scleractinia) from Eastern Atlantic PeerJ.
+Capel K•, Lopez C, Molto-Martin I, Zilberberg C, Creed JC, Knapp ISS, Hernandez M, **Forsman ZH**, Toonen RJ, Kitahara M, (2020) Atlantia, a new Dendrophylliidae genus (Cnidaria, Anthozoa, Scleractinia) from Eastern Atlantic. [PeerJ 8 e8633.](https://peerj.com/articles/8633/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
 
-Greene A•, **Forsman ZH**, Toonen RJ, Donahue M (2019) CoralCam: a flexible, low-cost ecological monitoring platform. HarwareX7:E00089
+Greene A•, **Forsman ZH**, Toonen RJ, Donahue M (2019) CoralCam: a flexible, low-cost ecological monitoring platform. [HarwareX7:E00089](https://www.sciencedirect.com/science/article/pii/S2468067219300537)
 
-Iguchi A, Yoshioka Y, **Forsman ZH**, Knapp ISS, Toonen RJ, Hongo Y, Nagai S, Yasuda N (2019) RADseq population genomics confirms divergence across closely related species in blue coral (*Heliopora coerulea*). BMC Evolutionary Biology. 19:187
+Iguchi A, Yoshioka Y, **Forsman ZH**, Knapp ISS, Toonen RJ, Hongo Y, Nagai S, Yasuda N (2019) RADseq population genomics confirms divergence across closely related species in blue coral (*Heliopora coerulea*). BMC Evolutionary [Biology. 19:187](https://link.springer.com/article/10.1186/s12862-019-1522-0)
 
-Cunha RL, **Forsman ZH**, Belderok R•, Knapp ISS, Castilho R, Toonen RJ, (2019) Rare coral under the genomic microscope: timing and relationships among Hawaiian *Montipora*. BMC Evolutionary Biology. 19: 153
+Cunha RL, **Forsman ZH**, Belderok R•, Knapp ISS, Castilho R, Toonen RJ, (2019) Rare coral under the genomic microscope: timing and relationships among Hawaiian *Montipora*. [BMC Evolutionary Biology. 19: 153](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1476-2)
 
-Terraneo TI•, Fusi M, Hume BCC, Arrigoni R, Voolstra CR, Benzoni F, **Forsman ZH**, Berumen ML (2019) Environmental latitudinal gradients and host specificity shape Symbiodiniaceae distribution in Red Sea *Porites* corals. Journal of Biogeography. 46: 2323– 2335
+Terraneo TI•, Fusi M, Hume BCC, Arrigoni R, Voolstra CR, Benzoni F, **Forsman ZH**, Berumen ML (2019) Environmental latitudinal gradients and host specificity shape Symbiodiniaceae distribution in Red Sea *Porites* corals. [Journal of Biogeography. 46: 2323– 2335](https://www.researchgate.net/profile/Christian_Voolstra/publication/335161250_jbi13672-sup-0001-appendixs1docx/data/5d53f2df45851530407324f0/jbi13672-sup-0001-appendixs1.docx)
 
 Copus JM•, Montgomery WL, **Forsman ZH**, Bowen BW, Toonen RJ (2018) Geopolitical species revisited: Genomic and morphologial data indicate three threatened and endangered species in the Roundtail Chub *Gila robusta* species complex (Teleostei, Cyprinidae) is a single species. [PeerJ 6:e5605](https://doi.org/10.7717/peerj.5605)
 
-**Forsman ZH**, Maurin P, Parry M, Chung A•, Sartor C•, Hixon M, Hughes K, Rodgers K, Knapp I, Gulko D, Franklin E, Torres L, Chan N, Wolke C, Gates R, Toonen RJ (2018) The First Hawai‘i Workshop For Coral Restoration & Nurseries. Marine Policy. 96, 133-135
+**Forsman ZH**, Maurin P, Parry M, Chung A•, Sartor C•, Hixon M, Hughes K, Rodgers K, Knapp I, Gulko D, Franklin E, Torres L, Chan N, Wolke C, Gates R, Toonen RJ (2018) The First Hawai‘i Workshop For Coral Restoration & Nurseries. [Marine Policy. 96, 133-135](https://www.sciencedirect.com/science/article/pii/S0308597X18301143)
 
-Johnston EC•, **Forsman ZH**, Toonen RJ. (2018) Plasticity or chimerism? Color variation in *Montipora verrilli* / *M. patula*. Galaxea, 19:1 33-34
+Johnston EC•, **Forsman ZH**, Toonen RJ. (2018) Plasticity or chimerism? Color variation in *Montipora verrilli* / *M. patula*. [Galaxea, 19:1 33-34](https://www.jstage.jst.go.jp/article/galaxea/19/1/19_33/_article/-char/en)
 
-Price MR, **Forsman ZH**, Knapp ISS, Hadfield MG (2018) A comparison of mitochondrial genomes from five species in three genera suggests polyphyly in the subfamily Achatinellinae (Gastropoda: Pulmonata: Stylommatophora: Achatinellidae) Mitochondrial DNA Part B: Resources. 3:2, 611-612
+Price MR, **Forsman ZH**, Knapp ISS, Hadfield MG (2018) A comparison of mitochondrial genomes from five species in three genera suggests polyphyly in the subfamily Achatinellinae (Gastropoda: Pulmonata: Stylommatophora: Achatinellidae) [Mitochondrial DNA Part B: Resources. 3:2, 611-612](https://www.tandfonline.com/doi/full/10.1080/23802359.2018.1473737)
 
-Terraneo TI•, Arrigoni R, Benzoni F, **Forsman ZH**, Berumen ML (2018) The complete mitochondrial genome of *Porites harrisoni* (Cnidaria: Scleractinia) obtained using Next Generation Sequencing. Mitochondrial DNA Part B: Resources. 3:1, 286-287
+Terraneo TI•, Arrigoni R, Benzoni F, **Forsman ZH**, Berumen ML (2018) The complete mitochondrial genome of *Porites harrisoni* (Cnidaria: Scleractinia) obtained using Next Generation Sequencing. [Mitochondrial DNA Part B: Resources. 3:1, 286-287](https://www.tandfonline.com/doi/pdf/10.1080/23802359.2018.1443852)
 
-Terraneo TI•, Arrigoni R, Benzoni F, **Forsman ZH**, Berumen ML (2018) Using ezRAD to reconstruct the complete mitochondrial genome of *Porites fontanesii* (Cnidaria: Scleractinia). Mitochondrial DNA Part B: Resources 3:1, 173-174
+Terraneo TI•, Arrigoni R, Benzoni F, **Forsman ZH**, Berumen ML (2018) Using ezRAD to reconstruct the complete mitochondrial genome of *Porites fontanesii* (Cnidaria: Scleractinia). [Mitochondrial DNA Part B: Resources 3:1, 173-174](https://www.tandfonline.com/doi/full/10.1080/23802359.2018.1437805)
 
-Johnston EC•, **Forsman ZH**, Toonen RJ (2018) A simple molecular technique for distinguishing species reveals frequent misidentification of Hawaiian corals in the genus *Pocillopora*. PeerJ 6:e4355
+Johnston EC•, **Forsman ZH**, Toonen RJ (2018) A simple molecular technique for distinguishing species reveals frequent misidentification of Hawaiian corals in the genus *Pocillopora*. [PeerJ 6:e4355](https://peerj.com/articles/4355)
 
-Capel K•, Toonen RJ, Rachid CT, Creed JL, Kitahara M, **Forsman ZH**, Zilberberg C (2017) Clone wars: asexual reproduction may be key to the invasion success of *Tubastraea spp.* (Anthozoa: Scleractinia) in the South-Atlantic Ocean. PeerJ vol. 5 pp: e3873
+Capel K•, Toonen RJ, Rachid CT, Creed JL, Kitahara M, **Forsman ZH**, Zilberberg C (2017) Clone wars: asexual reproduction may be key to the invasion success of *Tubastraea spp.* (Anthozoa: Scleractinia) in the South-Atlantic Ocean. [PeerJ vol. 5 pp: e3873](https://peerj.com/articles/3873/)
 
-Johnston E•, **Forsman ZH**, Schmidt-Roach S, Pinzon J, Flot JF, Toonen RJ (2017) A genomic glance through the fog of plasticity and diversification in *Pocillopora*. Nature Scientific Reports. 7:5991
+Johnston E•, **Forsman ZH**, Schmidt-Roach S, Pinzon J, Flot JF, Toonen RJ (2017) A genomic glance through the fog of plasticity and diversification in *Pocillopora*. [Nature Scientific Reports. 7:5991](https://www.nature.com/articles/s41598-017-06085-3)
 
-McFadden C, Haverkort-Yeh R•, Reynolds A, Halasz A, Quattrini A, **Forsman ZH**, Benayahu Y, Toonen RJ (2017) Species boundaries in the absence of morphological, ecological or geographical differentiation in the Red Sea octocoral genus *Ovabunda* (Alcyonacea: Xeniidae). Molecular Phylogenetics and Evolution. 112; 174-184.
+McFadden C, Haverkort-Yeh R•, Reynolds A, Halasz A, Quattrini A, **Forsman ZH**, Benayahu Y, Toonen RJ (2017) Species boundaries in the absence of morphological, ecological or geographical differentiation in the Red Sea octocoral genus *Ovabunda* (Alcyonacea: Xeniidae). [Molecular Phylogenetics and Evolution. 112; 174-184.](https://www.sciencedirect.com/science/article/abs/pii/S1055790317300064)
 
-**Forsman ZH**, Knapp ISS, Tisthammer KH•, Eaton DAR, Belcaid M, Toonen RJ (2017) Coral hybridization or polymorphism? Genomic data reveal gene flow between *Porites lobata* and *P. compressa*. Molecular Phylogenetics and Evolution 111: 132-148.
+**Forsman ZH**, Knapp ISS, Tisthammer KH•, Eaton DAR, Belcaid M, Toonen RJ (2017) Coral hybridization or polymorphism? Genomic data reveal gene flow between *Porites lobata* and *P. compressa*. [Molecular Phylogenetics and Evolution 111: 132-148.](https://www.academia.edu/download/52534112/2017_ForsmanMPEporitespolyhybrid.pdf)
 
-García NAC, Campos JE, Tello Mussi JL, **Forsman ZH**, Montero Muñoz JL, Reyes AM, Arias González JE. (2017) Comparative molecular and morphological variation of *Siderastrea stellata* in the Gulf of Mexico. Biological Bulletin.232: 58-70.
+García NAC, Campos JE, Tello Mussi JL, **Forsman ZH**, Montero Muñoz JL, Reyes AM, Arias González JE. (2017) Comparative molecular and morphological variation of *Siderastrea stellata* in the Gulf of Mexico. [Biological Bulletin.232: 58-70.](http://www.academia.edu/download/53181890/Colin-Garcia_et_al_2017_Biol_Bull.pdf)
 
 Price MR, **Forsman ZH**, Knapp I, Toonen RJ, Hadfield MG (2016a) The complete mitochondrial genome of *Achatinella sowerbyana* (Gastropoda: Pulmonata: Stylommatophora) Mitochondrial DNA Part B 1.1 (2016): 666-668.
 
@@ -145,15 +145,3 @@ Foster KB, **Forsman ZH**, Sukhraj NC• (2007) Barbers Point (Kalaeloa) Harbor 
 **Forsman ZH**, Hunter CL (2007) Propagation of Hawaiian corals for reef restoration. Hawaiian Coral Reef Initiation/NOAA report. p.18
 
 **Forsman ZH**, Hunter CL (2006) Origins and relationships of the Hawaiian reef coral *Porites*; taxonomy, life history, endemicity and population genetics. Hawaiian Coral Reef Initiation/NOAA report, p. 12
-
-***Submitted or Advanced prep (available on request)***
-
-Rangel M•, Bell S•, Pacini AF, **Forsman ZH**, Knapp ISS, Toonen RJ (in review) Screaming at corals: 1-100kHz anthropogenic sounds show little effect on sessile coral reef invertebrates. PeerJ
-
-Kraft D•, Conklin E•, Barba E•, Hutchinson M, Toonen RJ, **Forsman ZH**, Bowen BW (in review) Genomics versus mtDNA for Resolving Stock Structure in the Silky Shark (Carcharhinus falciformis). Journal of fish biology
-
-Price M, **Forsman ZH**, Knapp ISS, Toonen RJ, Hadfield M (in review) Phylogenomics of an adaptive radiation in endangered Hawaiian tree snails (Achatinellidae). PeerJ
-
-Colín-García NA, Campos JE,Tello-Mussi JL, Chiappa-Carrara X, Arena-Ortiz ML, **Forsman ZH**; Arias-González JE (in review) Environmental variation is associated with increased morphological and molecular variation in Pseudodiploria corals. Marine Biodiversity
-
-**Forsman ZH**, Ritson-williams R•, Tishammer K, Knapp ISS, R.J. Toonen RJ (in review) Host-symbiont coevolution and diversification by habitat in a coral species complex (Scleractinia; Poritidae). Nature Scientific Reports.
