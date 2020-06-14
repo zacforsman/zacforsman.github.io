@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: heropage1
 title: HIMB Coral Nursery
-fatured-img: Coral_header
 permalink: /himb-coral-nursery/
 ---
 
 
 images!
 
-![](/images/coral_nursery_small.jpg)
+![](/images/reef-exposed.jpg)
+
 
 
 ![](/images/coral_nursery_logo.jpg)
