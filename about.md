@@ -15,14 +15,14 @@ Coral reefs provide essential habitat for fisheries, shoreline protection, sand 
 
 ## Career highlights:
 ### Evolutionary Biology:
-- Genomic tools revealed rapid adaptation and host-symbiont co-evolution
-- New species and hidden patterns of biodiversity discovered
-- Genetic structure across habitats
-- Genetic data to guide ESA listings
+- Genomic tools revealed rapid adaptation and host-symbiont co-evolution.
+- New species and hidden patterns of biodiversity discovered.
+- Surprising genetic structure and rapid adaptation across habitats.
+- Genetic data to guide ESA listings and support conservation of corals, plants, and invertebrates.
 
 ### Reef restoration:
-- Co-discovered the micro-fragmentation method, a coral cultivation method for reef restoration.
-- Worked to establish the DAR Coral Restoration Nursery.
+- Co-discovered and described the [micro-fragmentation method](https://peerj.com/articles/1313/), a coral cultivation method for reef restoration and conservation research.
+- Worked to establish the [DAR Coral Restoration Nursery](https://dlnr.hawaii.gov/blog/2016/02/11/nr16-30/)
 - Worked to establish the [HIMB Coral Nursery](/himb-coral-nursery)
 
-See my full [CV](/full_cf.pdf), [publications](/publications), or [Google Scholar Profile](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1) for additional information.
+See my full [CV](/assets/full_cf.pdf), [publications](/publications), or [Google Scholar Profile](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1) for additional information.
