@@ -17,6 +17,7 @@ The nursery was constructed in 2017 from recycled dolphin and fish pens that wer
 The pilot project has been successful, with racks of coral increasing in coral cover from approximately %50 in 2017 to up to 100% for many of the racks in 2020, despite a summer bleaching event (Figure 1a,b).  We have documented recruitment of juvenile fish (McGilly 2019) and coral (Figure 1c). The HIMB nursery has also enabled dozens of student research projects.
 
 ![](/images/coralfarm-Figure1.jpg)
+
 Figure 1 examples of coral growth and recruitment at the HIMB Nursery. (a) rack of coral in 2017, (b) the same rack in 2020, (c) example of coral recruitment on the HIMB Nursery racks.
 
 ![](/images/coral-farm-panorama.png)
