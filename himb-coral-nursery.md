@@ -12,23 +12,40 @@ The nursery was constructed in 2017 from recycled dolphin and fish pens that wer
 ![](/images/coral_collection.jpg)
 **Figure 1 Left** DAR staff and volunteers removing coral from decommissioned dolphin pens. **Right** Mesh racks used to transport corals by paddleboard to floating midwater racks.
 
+Juvenile fish began to thrive in this new habitat, doing the hard work of cleaning algae so the corals can grow:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OC37PyxF9Jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The pilot project has been successful, with racks of coral increasing in coral cover from approximately %50 in 2017 to up to 100% for many of the racks in 2020, despite a summer bleaching event **(Figure 2a,b)**.  We have documented recruitment of juvenile fish and coral **(Figure 2c)**. The HIMB nursery has also enabled dozens of student research projects.
+The pilot project has been successful, with racks of coral increasing in coral cover from approximately %50 in 2017 to ~80% in 2020 **(Figure 2a,b)**.  We have documented recruitment of juvenile fish and coral **(Figure 2c)**. The HIMB nursery has also enabled dozens of student research projects.
 
 ![](/images/coralfarm-Figure1.jpg)
 
 **Figure 2** examples of coral growth and recruitment at the HIMB Nursery. **(a)** rack of coral in 2017, **(b)** the same rack in 2020, **(c)** example of coral recruitment on the HIMB Nursery racks.
 
 
-Here is the same rack of coral after two years of growth:
+Here is the same rack as in the fish time-lapse video above after two years of growth:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maO661zyRgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### HIMB Coral Nursery projects
 
-![photogrametry](https://drive.google.com/file/d/17ZQvsa3LCimLNPMg86Aeriypr8W9Dswq/view?usp=sharing)
+#### Coral Growth Assays
+
+
+Measuring growth of the assays with 3D SfM photogrametry:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bKyCrAhH-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### 3D SfM photogrametry of the Nursery
+
+
+
+#### Coral Seedlings
+
+### Community Interactions
+
+### Student Projects Supported:
+
+
 
 
 
