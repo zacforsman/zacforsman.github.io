@@ -48,8 +48,8 @@ We are experimenting with using 3D photogrametry to quantify coral growth over ~
 #### Coral Seedlings
 Small tetrapods were designed by SECORE to serve as settlement substrates for coral larvae. Chamberland et al. [(2017)](https://www.nature.com/articles/s41598-017-17555-z) documented that these tetrapods reduced transplantation costs by several orders of magnitude by eliminating diver time in the water and the tetrapods wedged into cracks and crevices eliminating the need for epoxy or other attachment methods. We have used micro-fragmentation to cover these tetrapods in both a mid-water nursery (HIMB nursery Figure 4A), and a land based (DAR coral nursery Figure 4B). The tetrapods could be mass produced in a variety of sizes and micro-fragmentation could be used to produce ‘coral seedlings’. This concept has not yet been tested in the field.
 
-![](/images/coral-seedlings)
-**Figure 5** Prototype coral seedlings. 
+![](/images/coral-seedlings.jpg)
+**Figure 5** Prototype coral seedlings.
 
 #### Community Interactions
 The HIMB Coral Nursery provides an opportunity to study ecological interactions. We are particularly interested in ecological interactions that promote positive feedback cycles that result in more rapid increase in coral cover. Density, size, and diversity dependent effects are focal areas for future work.  
@@ -61,8 +61,8 @@ The HIMB Coral Nursery provides an opportunity to study ecological interactions.
 - Andrew Thompson, MSc (2019) University of York. Genotypic resilience to sedimentation and its effects on the survivorship of coral micro-fragments during a bleaching event in Kāne‘ohe Bay, Hawai’i.
 - Cristina McIntyre, MSc (2018) University of York. Spatial, temporal and environmental factors relating to the predation of *Porites compressa* coral by the nudibranch *Phestilla sibogae*.
 - Rangel M, Bell S, Pacini AF, Forsman ZH, Knapp ISS, Toonen RJ (*in review*) Screaming at corals: 1-100kHz anthropogenic sounds show little effect on sessile coral reef invertebrates. PeerJ.
-- Knapp ISS, Forsman ZH, Toooen RJ (2018) Nothing ventured nothing gained: establishing an *in-situ* coral nursery at the Hawai‘i Institute of Marine Biology. Symposium on science in support of archipelagic management. Oʻahu HI.
--Courtney Yoshiyama (STEM High School Capstone Project: testing coral growth on textures and colors of substrates).
+- Knapp ISS, Forsman ZH, Toonen RJ (2018) Nothing ventured nothing gained: establishing an *in-situ* coral nursery at the Hawai‘i Institute of Marine Biology. Symposium on science in support of archipelagic management. Oʻahu HI.
+- Courtney Yoshiyama (STEM High School Capstone Project: testing coral growth on textures and colors of substrates).
 - Jessica MacGregor (Hollings Scholar).
 - Peter Chen (Hollings Scholar).
 - McKenna Lewis (Hollings Scholar).
