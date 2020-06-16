@@ -4,7 +4,7 @@ title: HIMB Coral Nursery
 permalink: /himb-coral-nursery/
 ---
 
-The HIMB Coral Nursery is currently a pilot project to determine if it is possible to effectively farm coral and improve reef restoration in a floating midwater coral nursery.  
+The HIMB Coral Nursery is currently a pilot project to determine if it is possible to effectively farm coral and improve reef restoration using a floating midwater coral nursery.  
 
 The nursery was constructed in 2017 from recycled dolphin and fish pens that were decommissioned. Corals had naturally settled on the nets of these pens over the course of approximately 10 years, these corals were rescued with the assistance and guidance of the State of Hawaiʻi Division of Aquatic Resources (DAR).  
 
@@ -25,6 +25,8 @@ Here is the same rack as in the fish time-lapse video above after two years of g
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maO661zyRgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 ### HIMB Coral Nursery projects
 
 #### Coral Growth Assays
@@ -36,17 +38,18 @@ Restoration projects need data to find out the optimal genotype and size of cora
 We are measuring the assays with digital photography and with 3D SfM photogrametry to measure change in surface area and volume:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bKyCrAhH-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 #### 3D SfM photogrametry of the Nursery
 We are experimenting with using 3D photogrametry to quantify coral growth over ~100m2 of coral growing in the nursery.
 
-![](3D-colony-growth.png)
+![](/images/3D-colony-growth.png)
 **Figure 4.** 3D SfM can be used to measure coral growth **(Left Column)** October 2019, **(Middle Column)** February 2020, scaled 3D models juxtaposed with green indicating coral growth **(Right Column)**
 
 #### Coral Seedlings
 Small tetrapods were designed by SECORE to serve as settlement substrates for coral larvae. Chamberland et al. [(2017)](https://www.nature.com/articles/s41598-017-17555-z) documented that these tetrapods reduced transplantation costs by several orders of magnitude by eliminating diver time in the water and the tetrapods wedged into cracks and crevices eliminating the need for epoxy or other attachment methods. We have used micro-fragmentation to cover these tetrapods in both a mid-water nursery (HIMB nursery Figure 4A), and a land based (DAR coral nursery Figure 4B). The tetrapods could be mass produced in a variety of sizes and micro-fragmentation could be used to produce ‘coral seedlings’. This concept has not yet been tested in the field.
 
-![](coral-seedlings)
-Figure 5
+![](/images/coral-seedlings)
+**Figure 5** Prototype coral seedlings. 
 
 #### Community Interactions
 The HIMB Coral Nursery provides an opportunity to study ecological interactions. We are particularly interested in ecological interactions that promote positive feedback cycles that result in more rapid increase in coral cover. Density, size, and diversity dependent effects are focal areas for future work.  
