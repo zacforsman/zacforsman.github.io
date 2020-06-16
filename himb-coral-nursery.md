@@ -3,13 +3,11 @@ layout: heropage1
 title: HIMB Coral Nursery
 permalink: /himb-coral-nursery/
 ---
-
-# The HIMB Coral Nursery
-- ## Can we aquaculture a whole coral reef?
-- ## Can we farm coral at a massive scale?
 - ## Can we harness ecology to promote restoration and prevent decline?
+- ## Can we 'scale-up' coral farming?
+- ## Can we aquaculture a coral reef?
 
-The HIMB Coral Nursery aims to answer these questions. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
+The HIMB Coral Nursery aims to answer these and other questions in support of research and education at HIMB. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
 
 The nursery was constructed in 2017 by recycling dolphin and fish pens that were decommissioned. Corals had naturally settled on the nets of these pens over the course of approximately 10 years, these corals were rescued with the assistance and guidance of the State of Hawaiʻi Division of Aquatic Resources (DAR).  
 
@@ -74,5 +72,17 @@ The HIMB Coral Nursery provides an opportunity to study ecological interactions.
 - McKenna Lewis (Hollings Scholar).
 - Constance Sartor (Hollings Scholar).
 - Also thanks to the many volunteers who have contributed to the project.
+
+## Support & Funding
+- Thanks to the many volunteers that made this work possible!
+- Thanks to [Dr. Ingrid Knapp](http://tobolab.org/people/postdoctoral-researchers/ingrid-knapp/) (designer of Coral Nursery and ToBo lab icons) for helping on all fronts.
+- Thanks to the State of Hawaiʻi Division of Aquatic Resources for permitting, guidance and collaboration.
+- Special thanks to the Seaver Institute and the [NOAA Coral Reef Conservation Program](https://coralreef.noaa.gov/) for funding nursery related projects.
+- Thanks to the [ToBo lab](http://tobolab.org/) & [HIMB](http://www.himb.hawaii.edu/). 
+
+
+![](images/tricon.png)
+
+
 
 ![](/images/coral-farm-panorama.png)
