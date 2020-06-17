@@ -16,13 +16,6 @@ Brown N•, **Forsman ZH**, Tisthammer KT•, Richmond RH (2020) A resilient bro
 
 Tisthammer KH•, **Forsman ZH**, Toonen RJ, Richmond RH (2020) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. [PeerJ](https://peerj.com/articles/8550/)
 
-<div class="tcu-imageContainer tcu-imageAspect--2to1">
-  <div class="tcu-imageWrapper" style="opacity: 1; background-image: url(&quot;https://pbs.twimg.com/card_img/1273010669785198594/S0897FJX?format=jpg&amp;name=600x314&quot;); background-size: cover;" data-style="background-image: url(https://pbs.twimg.com/card_img/1273010669785198594/S0897FJX?format=jpg&amp;name=600x314); background-size: cover;">
-    <img class="u-block" data-src="https://pbs.twimg.com/card_img/1273010669785198594/S0897FJX?format=jpg&amp;name=600x314" alt="" src="https://pbs.twimg.com/card_img/1273010669785198594/S0897FJX?format=jpg&amp;name=600x314">
-  </div>
-</div>
-
-
 Bowen BW, **Forsman ZH**, Whitney JL, Faucci A, Hoban M, Canfield SJ, Johnston EC•, Coleman RC, Copus JM•, Vicente J, Toonen RJ (2020) Synthesis: Adaptive Radiations in the Sea: What the Flock? [Journal of Heredity](http://richard-coleman.com/s/Bowen-et-al2020-Species-Radiations-in-the-Sea.pdf)
 
 Capel K•, Lopez C, Molto-Martin I, Zilberberg C, Creed JC, Knapp ISS, Hernandez M, **Forsman ZH**, Toonen RJ, Kitahara M, (2020) Atlantia, a new Dendrophylliidae genus (Cnidaria, Anthozoa, Scleractinia) from Eastern Atlantic. [PeerJ 8 e8633.](https://peerj.com/articles/8633/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)

@@ -5,7 +5,19 @@ permalink: /about/
 ---
 
 
- ![](/images/forsman.png)
+
+<style>
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<img src="/images/forsman.png" alt="Zac H. Forsman PhD" style="width:300px">
+
+
+
 
 I am an evolutionary biologist and ecologist working at the [Hawaiʻi Institute of Marine Biology](http://www.himb.hawaii.edu/), in the [ToBo (Toonen/Bowen) laboratory](http://tobolab.org/people/postdoctoral-researchers/zach-forsman/). I am interested in using molecular tools to learn about evolution and biodiversity. Reef building corals are a fascinating and challenging model system because they form the foundation of a threatened and rapidly declining ecosystem. They are an ancient and diverse lineage ancestral to most metazoans, and they form a unique partnership with symbiotic algae. Marine heat waves cause this partnership to break down, leading to coral bleaching and decline.
 
