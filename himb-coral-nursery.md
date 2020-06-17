@@ -3,9 +3,9 @@ layout: heropage1
 title: HIMB Coral Nursery
 permalink: /himb-coral-nursery/
 ---
-- ## Can we harness ecology to promote restoration and prevent decline?
-- ## Can we 'scale-up' coral farming?
-- ## Can we aquaculture a coral reef?
+## Can ecology be harnessed to promote restoration and prevent decline?
+## Can we farm coral?
+## Can we grow a coral reef?
 
 The HIMB Coral Nursery aims to answer these and other questions in support of research and education at HIMB. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
 
@@ -32,7 +32,7 @@ Here is the same rack as in the fish time-lapse video above after two years of g
 
 ## HIMB Coral Nursery projects
 
-- #### Coral Growth Assays
+#### Coral Growth Assays
 Restoration projects need data to find out the optimal genotype and size of coral to plant at a particular site. Thanks to funding from the Seaver Institute, and the NOAA Coral Reef Conservation Program, and in collaboration with the DAR Coral Nursery, we have developed Coral Growth Assays that can be used in the field to provide this information. The assays use micro-fragmentation to control size and coral genotype on each unit. The assays provide data on which genotype and which size category is optimal for each site.
 
 ![](/images/coral-assays.jpg)
@@ -43,19 +43,19 @@ We are measuring the assays with digital photography and with 3D SfM photogramet
 
 
 
-- #### 3D SfM photogrametry of the Nursery
+#### 3D SfM photogrametry of the Nursery
 We are experimenting with using 3D photogrametry to quantify coral growth over ~100m2 of coral growing in the nursery.
 
 ![](/images/3D-colony-growth.png)
 **Figure 4.** 3D SfM can be used to measure coral growth **(Left Column)** October 2019, **(Middle Column)** February 2020, scaled 3D models juxtaposed with green indicating coral growth **(Right Column)**
 
-- #### Coral Seedlings
+#### Coral Seedlings
 Small tetrapods were designed by SECORE to serve as settlement substrates for coral larvae. Chamberland et al. [(2017)](https://www.nature.com/articles/s41598-017-17555-z) documented that these tetrapods reduced transplantation costs by several orders of magnitude by eliminating diver time in the water and the tetrapods wedged into cracks and crevices eliminating the need for epoxy or other attachment methods. We have used micro-fragmentation to cover these tetrapods in both a mid-water nursery, and a land based nursery. The tetrapods could be mass produced in a variety of sizes and micro-fragmentation could be used to produce ‘coral seedlings’. This concept has yet to be tested in the field.
 
 ![](/images/coral-seedlings.jpg)
 **Figure 5.** Prototype coral seedlings. **(A)** prototype coral seedling modules of various sizes and shapes designed to grow and self-attach to the substrate **(B)** a coral seedling with coral micro-fragments starting to attach after 3 months **(C)** seedlings covered with coral tissue after 1 year of growth in the *ex-situ* nursery.
 
-- #### Community Interactions
+#### Community Interactions
 The HIMB Coral Nursery provides an opportunity to study ecological interactions. We are particularly interested in ecological interactions that promote positive feedback cycles that result in more rapid increase in coral cover. Density, size, and diversity dependent effects are focal areas for future work.  
 
 ### Student Projects and presentations:
@@ -78,7 +78,7 @@ The HIMB Coral Nursery provides an opportunity to study ecological interactions.
 - Thanks to [Dr. Ingrid Knapp](http://tobolab.org/people/postdoctoral-researchers/ingrid-knapp/) (designer of Coral Nursery and ToBo lab icons) for helping on all fronts.
 - Thanks to the State of Hawaiʻi Division of Aquatic Resources for permitting, guidance and collaboration.
 - Special thanks to the Seaver Institute and the [NOAA Coral Reef Conservation Program](https://coralreef.noaa.gov/) for funding nursery related projects.
-- Thanks to the [ToBo lab](http://tobolab.org/) & [HIMB](http://www.himb.hawaii.edu/). 
+- Thanks to the [ToBo lab](http://tobolab.org/) & [HIMB](http://www.himb.hawaii.edu/).
 
 
 ![](images/tricon.png)
