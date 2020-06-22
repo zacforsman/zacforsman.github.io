@@ -3,9 +3,11 @@ layout: heropage1
 title: HIMB Coral Nursery
 permalink: /himb-coral-nursery/
 ---
-## Can ecology be harnessed to promote restoration and prevent decline?
-## Can we farm coral?
-## Can we grow a coral reef?
+<body>
+<p style="text-align: center; font-size:5vw;">Can ecology be harnessed to promote restoration and prevent decline?</p>
+<p style="text-align: center; font-size:5vw;">Can we farm coral?</p>
+<p style="text-align: center; font-size:5vw;">Can we grow a coral reef?</p>
+</body>
 
 The HIMB Coral Nursery aims to answer these and other questions in support of research and education at HIMB. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
 
@@ -77,7 +79,7 @@ The HIMB Coral Nursery provides an opportunity to study ecological interactions.
 - Thanks to the many volunteers that made this work possible!
 - Thanks to [Dr. Ingrid Knapp](http://tobolab.org/people/postdoctoral-researchers/ingrid-knapp/) (designer of Coral Nursery and ToBo lab icons) for helping on all fronts.
 - Thanks to the State of Hawaiʻi Division of Aquatic Resources for permitting, guidance and collaboration.
-- Special thanks to the Seaver Institute and the [NOAA Coral Reef Conservation Program](https://coralreef.noaa.gov/) for funding nursery related projects.
+- Special thanks to the Seaver Institute and the [NOAA Coral Reef Conservation Program](https://coralreef.noaa.gov/) and the Takeshi Tomo Trust, for funding nursery related projects.
 - Thanks to the [ToBo lab](http://tobolab.org/) & [HIMB](http://www.himb.hawaii.edu/).
 
 
