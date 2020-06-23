@@ -4,9 +4,9 @@ title: HIMB Coral Nursery
 permalink: /himb-coral-nursery/
 ---
 <body>
-<p style="text-align: center; font-size:5vw;">Can ecology be harnessed to promote restoration and prevent decline?</p>
-<p style="text-align: center; font-size:5vw;">Can we farm coral?</p>
-<p style="text-align: center; font-size:5vw;">Can we grow a coral reef?</p>
+<p style="text-align: center; font-size:3vw;">Can ecology be harnessed to promote restoration and prevent decline?</p>
+<p style="text-align: center; font-size:3vw;">Can we farm coral?</p>
+<p style="text-align: center; font-size:3vw;">Can we grow a coral reef?</p>
 </body>
 
 The HIMB Coral Nursery aims to answer these and other questions in support of research and education at HIMB. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
