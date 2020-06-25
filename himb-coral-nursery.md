@@ -9,58 +9,68 @@ permalink: /himb-coral-nursery/
 <p style="text-align: center; font-size:3vw;">Can we grow a coral reef?</p>
 </body>
 
-The HIMB Coral Nursery aims to answer these and other questions in support of research and education at HIMB. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
 
-The nursery was constructed in 2017 by recycling dolphin and fish pens that were decommissioned. Corals had naturally settled on the nets of these pens over the course of approximately 10 years, these corals were rescued with the assistance and guidance of the State of Hawaiʻi Division of Aquatic Resources (DAR).  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The [Hawaiʻi Institute of Marine Biology](http://www.himb.hawaii.edu/) (HIMB) Coral Nursery aims to answer these and other questions in support of research and education at HIMB. It started as a pilot project to determine if it is possible to farm coral and improve reef restoration using a floating midwater coral nursery.  
+
+## BACKGROUND
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The nursery was constructed in 2017 by recycling dolphin and fish pens that were decommissioned. Corals had naturally settled on the nets of these pens over the course of approximately 10 years, these corals were rescued with the assistance and guidance of the State of Hawaiʻi Division of Aquatic Resources (DAR).  
 
 ![](/images/coral_collection.jpg)
 **Figure 1. Left** DAR staff and volunteers removing coral from decommissioned dolphin pens. **Right** Mesh racks used to transport corals by paddleboard to floating midwater racks.
 
-The pilot project has been successful, with racks  increasing in coral cover from approximately %50 in 2017 to ~80% in 2020 **(Figure 2a,b)**.  We have documented recruitment of juvenile fish and coral **(Figure 2c)**. The HIMB nursery has also enabled dozens of student research projects, providing coral to researchers with no harm to the reef.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The pilot project has been successful, with racks  increasing in coral cover from approximately %50 in 2017 to ~80% in 2020 **(Figure 2a,b)**.  We have documented recruitment of juvenile fish and coral **(Figure 2c)**. The HIMB nursery has also enabled dozens of student research projects, providing coral to researchers with no harm to the reef.
 
 ![](/images/coralfarm-Figure1.jpg)
 
 **Figure 2.** examples of coral growth and recruitment at the HIMB Nursery. **(a)** rack of coral in 2017, **(b)** the same rack in 2020, **(c)** example of coral recruitment on the HIMB Nursery racks.
 
-Juvenile fish began to thrive in this new habitat, doing the hard work of cleaning algae so the corals can grow:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Juvenile fish began to thrive in this new habitat, doing the hard work of cleaning algae so the corals can grow:
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OC37PyxF9Jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Here is the same rack as in the fish time-lapse video above after two years of growth:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here is the same rack as in the fish time-lapse video above after two years of growth:
 
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maO661zyRgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
-
-## HIMB Coral Nursery projects
+## EXAMPLE PROJECTS
 
 #### Coral Growth Assays
-Restoration projects need data to find out the optimal genotype and size of coral to plant at a particular site. Thanks to funding from the Seaver Institute, and the NOAA Coral Reef Conservation Program, and in collaboration with the DAR Coral Nursery, we have developed Coral Growth Assays that can be used in the field to provide this information. The assays use micro-fragmentation to control size and coral genotype on each unit. The assays provide data on which genotype and which size category is optimal for each site.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restoration projects need data to find out the optimal genotype and size of coral to plant at a particular site. Thanks to funding from the Seaver Institute, and the NOAA Coral Reef Conservation Program, and in collaboration with the DAR Coral Nursery, we have developed Coral Growth Assays that can be used in the field to provide this information. The assays use micro-fragmentation to control size and coral genotype on each unit. The assays provide data on which genotype and which size category is optimal for each site.
 
 ![](/images/coral-assays.jpg)
 **Figure 3.** Examples of coral modules that can also serve as growth assays. **(A)** *P. compressa* grown from ~0.4cm2 fragments at in the DAR coral Nursery. **(B)** *M. capitata* at the DAR coral nursery. **(C)** *P. compressa* at the HIMB nursery. **(D)** *M. capitata* at the HIMB coral nursery. **(E)** coral modules placed on sand and rubble on an HIMB reef flat.
 
-We are measuring the assays with digital photography and with 3D SfM photogrametry to measure change in surface area and volume:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are measuring the assays with digital photography and with 3D SfM photogrametry to measure change in surface area and volume:
+
+<div style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-bKyCrAhH-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 
 #### 3D SfM photogrametry of the Nursery
-We are experimenting with using 3D photogrametry to quantify coral growth over ~100m2 of coral growing in the nursery.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are experimenting with using 3D photogrametry to quantify coral growth over ~100m2 of coral growing in the nursery.
 
 ![](/images/3D-colony-growth.png)
 **Figure 4.** 3D SfM can be used to measure coral growth **(Left Column)** October 2019, **(Middle Column)** February 2020, scaled 3D models juxtaposed with green indicating coral growth **(Right Column)**
 
 #### Coral Seedlings
-Small tetrapods were designed by SECORE to serve as settlement substrates for coral larvae. Chamberland et al. [(2017)](https://www.nature.com/articles/s41598-017-17555-z) documented that these tetrapods reduced transplantation costs by several orders of magnitude by eliminating diver time in the water and the tetrapods wedged into cracks and crevices eliminating the need for epoxy or other attachment methods. We have used micro-fragmentation to cover these tetrapods in both a mid-water nursery, and a land based nursery. The tetrapods could be mass produced in a variety of sizes and micro-fragmentation could be used to produce ‘coral seedlings’. This concept has yet to be tested in the field.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small tetrapods were designed by [SECORE](http://www.secore.org/site/home.html) to serve as settlement substrates for coral larvae. Chamberland et al. [(2017)](https://www.nature.com/articles/s41598-017-17555-z) documented that these tetrapods reduced transplantation costs by several orders of magnitude by eliminating diver time in the water and the tetrapods wedged into cracks and crevices eliminating the need for epoxy or other attachment methods. We have used micro-fragmentation to cover these tetrapods in both a mid-water nursery, and a land based nursery. The tetrapods could be mass produced in a variety of sizes and micro-fragmentation could be used to produce ‘coral seedlings’. This concept has yet to be tested in the field.
 
 ![](/images/coral-seedlings.jpg)
 **Figure 5.** Prototype coral seedlings. **(A)** prototype coral seedling modules of various sizes and shapes designed to grow and self-attach to the substrate **(B)** a coral seedling with coral micro-fragments starting to attach after 3 months **(C)** seedlings covered with coral tissue after 1 year of growth in the *ex-situ* nursery.
 
 #### Community Interactions
-The HIMB Coral Nursery provides an opportunity to study ecological interactions. We are particularly interested in ecological interactions that promote positive feedback cycles that result in more rapid increase in coral cover. Density, size, and diversity dependent effects are focal areas for future work.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The HIMB Coral Nursery provides an opportunity to study ecological interactions. We are particularly interested in ecological interactions that promote positive feedback cycles that result in more rapid increase in coral cover. Density, size, and diversity dependent effects are focal areas for future work.  
 
-### Student Projects and presentations:
+### Intellectual products:
+- Real time temperature [data](https://thingspeak.com/channels/528664) over a depth gradient within the nursery.
 - Austin Greene, (PhD candidate) Coral microbiome experiments and development of [CoralCam: a flexible, low-cost ecological monitoring platform.](https://www.sciencedirect.com/science/article/pii/S2468067219300537)
 - Anne Chung, PhD (2018) UH Mānoa. Translating resilience-based management from theory to practice in Hawaiʻi.
 - Maggie McGilly, MSc (2019) University of York. *In-situ* floating coral nurseries: a new source of juvenile fish recruitment?

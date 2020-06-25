@@ -19,11 +19,11 @@ img {
 
 
 
-I am an evolutionary biologist and ecologist working at the [Hawaiʻi Institute of Marine Biology](http://www.himb.hawaii.edu/), in the [ToBo (Toonen/Bowen) laboratory](http://tobolab.org/people/postdoctoral-researchers/zach-forsman/). I am interested in using molecular tools to learn about evolution and biodiversity. Reef building corals are a fascinating and challenging model system because they form the foundation of a threatened and rapidly declining ecosystem. They are an ancient and diverse lineage ancestral to most metazoans, and they form a unique partnership with symbiotic algae. Marine heat waves cause this partnership to break down, leading to coral bleaching and decline.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an evolutionary biologist and ecologist working at the [Hawaiʻi Institute of Marine Biology](http://www.himb.hawaii.edu/), in the [ToBo (Toonen/Bowen) laboratory](http://tobolab.org/people/postdoctoral-researchers/zach-forsman/). I am interested in using molecular tools to learn about evolution and biodiversity. Reef building corals are a fascinating and challenging model system because they form the foundation of a threatened and rapidly declining ecosystem. They are an ancient and diverse lineage ancestral to most metazoans, and they form a unique partnership with symbiotic algae. Marine heat waves cause this partnership to break down, leading to coral bleaching and decline.
 
-Coral reefs provide essential habitat for fisheries, shoreline protection, sand for beaches, and home to up to 1/4 of marine life. Mass bleaching events have resulted in major declines of reefs globally, and these ecosystems are at the frontlines of climate change.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coral reefs provide essential habitat for fisheries, shoreline protection, sand for beaches, and home to up to 1/4 of marine life. Mass bleaching events have resulted in major declines of reefs globally, and these ecosystems are at the frontlines of climate change.
 
-Can we maintain and preserve coral reefs for future generations?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we maintain and preserve coral reefs for future generations?
 
 
 
@@ -39,4 +39,4 @@ Can we maintain and preserve coral reefs for future generations?
 - Worked to establish the [DAR Coral Restoration Nursery](https://dlnr.hawaii.gov/blog/2016/02/11/nr16-30/)
 - Worked to establish the [HIMB Coral Nursery](/himb-coral-nursery)
 
-See my full [CV](/assets/full_cf.pdf), [publications](/publications), or [Google Scholar Profile](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1) for additional information.
+See my full [CV](http://www2.hawaii.edu/~zac/misc/full_cv.pdf), [publications](/publications), or [Google Scholar Profile](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1) for additional information.

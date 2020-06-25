@@ -6,7 +6,7 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1), updated June 2020: h-index 20, i10-index 29, 1,338 citations, • = students mentored
 
-***Peer reviewed (n=55)*** [full cv](/assets/full_CV.pdf)
+***Peer reviewed (n=55)*** [full cv](http://www2.hawaii.edu/~zac/misc/full_cv.pdf)
 
 Terraneo T•, Benzoni F, Arrigoni R, Baird A, Mariappan K, **Forsman ZH**, Wooster M, Bouwmeester J, Marshell A, Berumen M (*in press*) Phylogenomics and phylogeography of *Porites* from the Arabian Peninsula. Systematic Biology
 
