@@ -69,7 +69,7 @@ permalink: /himb-coral-nursery/
 #### Community Interactions
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The HIMB Coral Nursery provides an opportunity to study ecological interactions. We are particularly interested in ecological interactions that promote positive feedback cycles that result in more rapid increase in coral cover. Density, size, and diversity dependent effects are focal areas for future work.  
 
-### Intellectual products:
+### Intellectual Products & Students:
 - Real time temperature [data](https://thingspeak.com/channels/528664) over a depth gradient within the nursery.
 - Austin Greene, (PhD candidate) Coral microbiome experiments and development of [CoralCam: a flexible, low-cost ecological monitoring platform.](https://www.sciencedirect.com/science/article/pii/S2468067219300537)
 - Anne Chung, PhD (2018) UH Mānoa. Translating resilience-based management from theory to practice in Hawaiʻi.
@@ -78,12 +78,8 @@ permalink: /himb-coral-nursery/
 - Cristina McIntyre, MSc (2018) University of York. Spatial, temporal and environmental factors relating to the predation of *Porites compressa* coral by the nudibranch *Phestilla sibogae*.
 - Rangel M, Bell S, Pacini AF, Forsman ZH, Knapp ISS, Toonen RJ (*in review*) Screaming at corals: 1-100kHz anthropogenic sounds show little effect on sessile coral reef invertebrates. PeerJ.
 - Knapp ISS, Forsman ZH, Toonen RJ (2018) Nothing ventured nothing gained: establishing an *in-situ* coral nursery at the Hawai‘i Institute of Marine Biology. Symposium on science in support of archipelagic management. Oʻahu HI.
-- Courtney Yoshiyama (STEM High School Capstone Project: testing coral growth on textures and colors of substrates).
-- Jessica MacGregor (Hollings Scholar).
-- Peter Chen (Hollings Scholar).
-- McKenna Lewis (Hollings Scholar).
-- Constance Sartor (Hollings Scholar).
-- Also thanks to the many volunteers who have contributed to the project.
+- Courtney Yoshiyama (2017 STEM High School Capstone Project: testing coral growth on textures and colors of substrates).
+- Hollings Scholar Fieldwork Experience (Jessica MacGregor, Peter Chen, McKenna Lewis, Constance Sartor).
 
 ## Support & Funding
 - Thanks to the many volunteers that made this work possible!
