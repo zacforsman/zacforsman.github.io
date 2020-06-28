@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'HIMB Coral Nursery', link: '/himb-coral-nursery'}
   - {name: 'Publications', link: '/publications'}
-  - {name: 'Blog', link: '/blog'}
+  - {name: 'Media & News', link: '/blog'}
 
 tagline: >
   Zac H. Forsman, PhD
