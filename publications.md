@@ -60,7 +60,7 @@ Capel KCC•, Migotto AE, Zilberberg C, Lin MF, Chen CA, **Forsman ZH**, Miller 
 
 Knapp ISS, Puritz J, Bird C, Whitney J, Sudek M, **Forsman ZH**, Toonen RJ (2016) ezRAD- an accessible next-generation RAD sequencing protocol suitable for non-model organisms_v3.2. [protocols.iodx.doi.org/10.17504/protocols.io.e9pbh5n](https://www.protocols.io/view/ezrad-an-accessible-next-generation-rad-sequencing-e9pbh5n)
 
-Tisthammer KH•, **Forsman ZH**, Sindorf V, Massey T, Bielecki C, Toonen RJ (2016) The complete mitochondrial genome of the lobe coral *Porites lobata* (Anthozoa:Scleractinia) sequenced using ezRAD. Mitochondrial DNA part B; Resources 1.1 (2016): 247-249.(https://scholar.google.com/citations?hl=en&user=MyhFvt4AAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
+Tisthammer KH•, **Forsman ZH**, Sindorf V, Massey T, Bielecki C, Toonen RJ (2016) The complete mitochondrial genome of the lobe coral *Porites lobata* (Anthozoa:Scleractinia) sequenced using ezRAD. [Mitochondrial DNA part B; Resources 1.1 (2016): 247-249.](https://scholar.google.com/citations?hl=en&user=MyhFvt4AAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
 
 Price MR, **Forsman ZH**, Knapp ISS, Hadfield MG, Toonen RJ (2016b) The complete mitochondrial genome of *Achatinella mustelina* (Gastropoda: Pulmonata: Stylommatophora). [Mitochondrial DNA part B; Resources. 1(1), 175-177.](https://www.tandfonline.com/doi/full/10.1080/23802359.2016.1219631)
 
