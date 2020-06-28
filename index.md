@@ -55,16 +55,22 @@ I use genetic and ecological tools for applied conservation. Here are some resea
 </style>
 <div class="row">
   <div class="column">
-    <img src="/images/peerJ-micro-frag.jpg" alt="https://peerj.com/articles/1313/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD" style="width:100%; border-radius: 10%;">
+    <a href="https://peerj.com/articles/1313/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD">
+    <img src="/images/peerJ-micro-frag.jpg" alt="micro-fragmentation" style="width:100%; border-radius: 10%;">
+    </a>
   </div>
   <div class="column">
-    <img src="/images/divide_con.jpg" alt="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer" style="width:100%; border-radius: 10%;">
+    <a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer">
+    <img src="/images/divide_con.jpg" alt="The Biologist Article" style="width:100%; border-radius: 10%;">
+    </a>
   </div>
   <div class="column">
-    <img src="/images/aquaculture.jpg" alt="http://www.academia.edu/download/11975670/2006_ForsmanAquaculture.pdf" style="width:100%;border-radius: 10%;">
+    <a href="http://www.academia.edu/download/11975670/2006_ForsmanAquaculture.pdf">
+    <img src="/images/aquaculture.jpg" alt="" style="width:100%;border-radius: 10%;">
+    </a>
   </div>
 </div>
-
+<br>
 
 - ***Can we cultivate a coral reef?*** The [HIMB Coral Nursery](/himb-coral-nursery) is a floating cultivated reef, built from rescued corals and recycled material. Our goal is to use ecological data to prevent reef decline and promote restoration.
 
