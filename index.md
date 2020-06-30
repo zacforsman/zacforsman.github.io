@@ -31,47 +31,79 @@ I use genetic and ecological tools for applied conservation. Here are some resea
 
 - ***Which species are at risk of going extinct?***  Genetic data supports conservation of corals, plants, and invertebrates.
 
-<a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-45">
-<img src="/images/plastic.jpg" alt="micro-fragmentation" style="width:50%; border-radius: 10%;display: block; margin-left: auto; margin-right: auto;">
-</a>
-<br>
+
 
 - ***How are species and populations related?*** DNA provides a 'map' of relationships, revealing new species and hidden patterns of biodiversity.
 
-<a href="https://www.nature.com/articles/s41598-017-06085-3">
-<img src="/images/fog.jpg" alt="Genomics; through the fog" style="width:50%; border-radius: 10%; display: block; margin-left: auto; margin-right: auto; ">
-</a>
-<br>
+
 
 - ***Will corals be able to adapt?*** Recent divergence across habitats, suggests rapid adaptation. Corals have extraordinary variation, the raw material for natural selection. Many lineages have unique adaptations and will survive but coral reefs and the ecosystems they support are collapsing at alarming rates.
 
-<a href="https://phys.org/news/2020-04-coastal-pollution-genetic-diversity-corals.html">
-<img src="/images/structure_news.jpg" alt="Genetic structure by Habitat" style="width:50%;border-radius: 3%;display: block; margin-left: auto; margin-right: auto;">
-</a>  
+<style>
+ {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 3px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<div class="row">
+  <div class="column">
+    <a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-45">
+    <img src="/images/plastic.jpg" alt="micro-fragmentation" style="width:100%; border-radius: 5%;">
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://www.nature.com/articles/s41598-017-06085-3">
+    <img src="/images/fog.jpg" alt="Genomics; through the fog" style="width:100%; border-radius: 5%;">
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://phys.org/news/2020-04-coastal-pollution-genetic-diversity-corals.html">
+    <img src="/images/structure_news.jpg" alt="Genetic structure by Habitat" style="width:100%;border-radius: 5%;">
+    </a>
+  </div>
+</div>
 <br>
 
 ### Restoration ecology:
 - ***Can we cultivate and 'mass produce' coral?*** The [micro-fragmentation method](https://peerj.com/articles/1313/) results in rapid tissue growth; a key method for reef restoration and conservation research. The method is used at the [DAR Coral Restoration Nursery](https://dlnr.hawaii.gov/blog/2016/02/11/nr16-30/) to produce large coral covered modules. Coral micro-fragments can also be used as a biological assay.
 
-<a href="https://peerj.com/articles/1313/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD">
-<img src="/images/peerJ-micro-frag.jpg" alt="micro-fragmentation" style="width:49.2%; border-radius: 2%; float:left">
-</a>
 
-
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0044848606004820">
-<img src="/images/aquaculture.jpg" alt="Aquaculture:fragment size" style="width:50%;border-radius: 2%; float:right">
-</a>
-
-<br>
 
 
 - ***Can we cultivate a coral reef?*** The [HIMB Coral Nursery](/himb-coral-nursery) is a floating cultivated reef, built from rescued corals and recycled material. Our goal is to use ecological data to prevent reef decline and promote restoration.
-<a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer">
 
-<img src="/images/divide_con.jpg" alt="The Biologist Article" style="width:50%; border-radius: 10%;display: block; margin-left: auto; margin-right: auto;">
-</a>
-
+<div class="row">
+  <div class="column">
+    <a href="https://peerj.com/articles/1313/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD">
+    <img src="/images/peerJ-micro-frag.jpg" alt="micro-fragmentation" style="width:100%; border-radius: 5%;">
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer">
+    <img src="/images/divide_con.jpg" alt="The Biologist Article" style="width:100%; border-radius: 5%;">
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0044848606004820">
+    <img src="/images/aquaculture.jpg" alt="Aquaculture:fragment size" style="width:100%;border-radius: 5%;">
+    </a>
+  </div>
+</div>
 <br>
+
+
+
+
+
 <hr>
 
 
