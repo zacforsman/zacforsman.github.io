@@ -22,7 +22,7 @@ permalink: /
 
 <p style="text-align:center;"> I use genetic and ecological tools for applied conservation. Here are some highlights:</p>
 
-### Genetic studies:
+<h2>Genetic studies:</h2>
 
 <style>
 {
@@ -58,7 +58,7 @@ permalink: /
   Recent divergence across habitats, suggests rapid adaptation. Corals have extraordinary variation, the raw material for natural selection. Many lineages have unique adaptations and will survive but coral reefs and the ecosystems they support are collapsing at alarming rates.
 </div>
 
-### Restoration ecology:
+<h2> Restoration ecology:</h2>
 
 <div class="row">
   <a href="https://peerj.com/articles/1313/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD"><img src="/images/peerJ-micro-frag.jpg" alt="micro-fragmentation" style="width:300px; margin-right:20px;float:left;border-radius:4%;padding: 5px;"></a>
@@ -72,12 +72,12 @@ permalink: /
 
 <div class="row">
   <a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer"><img src="/images/divide_con.jpg" alt="The Biologist Article" style="width:300px; margin-right:20px;float:left;border-radius:4%;padding: 5px;"></a>
-  <b><i> Can we 'mass produce' coral covered structures? </b></i>  
+  <b><i> Can we mass produce coral covered structures? </b></i>  
 
-  The <a href=https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer> micro-fragmentation method </a> can be used to rapidly cover substrates with coral tissue. Can this method be used to mass produce coral seedlings, or to turn artificial breakwaters from 'gray' to 'blue' infrastructure?
+  The <a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer"> micro-fragmentation method </a> can be used to rapidly cover substrates with coral tissue. Can this method be used to mass produce coral seedlings, or to turn artificial breakwaters from 'gray' to 'blue' infrastructure?
 
 
-  Forsman ZH (2020) Divide and conquer: how the microfragmentation technique can help restore coral impacted by climate change and mass coral bleaching. <a href=https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer>The Biologist, Royal Society of Biology, vol. 67. No1. London</a>
+  Forsman ZH (2020) Divide and conquer: how the microfragmentation technique can help restore coral impacted by climate change and mass coral bleaching. <a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer">The Biologist, Royal Society of Biology, vol. 67. No1. London</a>
 </div>
 
 <div class="row">
