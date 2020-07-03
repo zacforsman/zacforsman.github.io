@@ -31,7 +31,9 @@ permalink: /
 
 *e.g*: Johnston E, Forsman ZH, Schmidt-Roach S, Pinzon J, Flot JF, Toonen RJ (2017) A genomic glance through the fog of plasticity and diversification in *Pocillopora*. [Nature Scientific Reports. 7:5991](https://www.nature.com/articles/s41598-017-06085-3)
 
-<Br Clear=left>
+
+<br Clear=left></br>
+
 
 
 
@@ -41,7 +43,7 @@ permalink: /
 DNA provides a 'map' of relationships, revealing new species and hidden patterns of biodiversity.
 
 
-<Br Clear=left>
+<br Clear=left></br>
 
 
 <a href="https://phys.org/news/2020-04-coastal-pollution-genetic-diversity-corals.html"><img src="/images/structure_news.jpg" alt="Plastic" style="width:300px; margin-right:20px;float:left;border-radius:5%;padding: 5px;"></a>
@@ -50,7 +52,7 @@ DNA provides a 'map' of relationships, revealing new species and hidden patterns
 Recent divergence across habitats, suggests rapid adaptation. Corals have extraordinary variation, the raw material for natural selection. Many lineages have unique adaptations and will survive but coral reefs and the ecosystems they support are collapsing at alarming rates.
 
 
-<Br Clear=left>
+<br Clear=left></br>
 
 ### Restoration ecology:
 
@@ -62,7 +64,7 @@ The <a href="https://peerj.com/articles/1313/"> micro-fragmentation method </a> 
 Forsman ZH, Vaughan D, Page CA, Toonen R (2015) Growing coral larger and faster: accelerating coral cover by colony fusion; <a href="https://peerj.com/articles/1313/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD">PeerJ 3:e1313</a>
 
 
-<Br Clear=left>
+<br Clear=left></br>
 
 
 <a href="https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer"><img src="/images/divide_con.jpg" alt="The Biologist Article" style="width:300px; margin-right:20px;float:left;border-radius:4%;padding: 5px;"></a>
@@ -74,7 +76,7 @@ The <a href=https://thebiologist.rsb.org.uk/biologist-features/158-biologist/fea
 Forsman ZH (2020) Divide and conquer: how the microfragmentation technique can help restore coral impacted by climate change and mass coral bleaching. <a href=https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer>The Biologist, Royal Society of Biology, vol. 67. No1. London</a>
 
 
-<Br Clear=left>
+<br Clear=left></br>
 
 
 <a href="/himb-coral-nursery"><img src="/images/coral_nursery_small.jpg" alt="HIMB Coral Nursery" style="width:300px; margin-right:20px;float:left;border-radius:4%;padding: 5px;"></a>
@@ -84,7 +86,7 @@ Forsman ZH (2020) Divide and conquer: how the microfragmentation technique can h
 The <a href="/himb-coral-nursery">HIMB Coral Nursery</a> is a floating coral reef, built from naturally settled corals rescued from recycled dolphin and aquaculture pens. Our goal is to use ecological data to prevent reef decline and promote restoration.
 
 
-<Br Clear=left>
+<br Clear=left></br>
 
 
 <hr>
