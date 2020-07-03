@@ -24,21 +24,21 @@ permalink: /
 
 ### Genetic studies:
 
-<p><a href="https://www.nature.com/articles/s41598-017-06085-3"><img src="/images/fog.jpg" alt="fog" style="width:300px; margin-right:20px;float:left;border-radius:4%;padding: 5px;">
-<ul>
-<li><b><i> Which species are at risk of going extinct? </b></i></a>  Genetic data supports conservation of corals, plants, and invertebrates.
-</li>
-</ul>
+<p>
+<a href="https://www.nature.com/articles/s41598-017-06085-3"><img src="/images/fog.jpg" alt="fog" style="width:300px; margin-right:20px;float:left;border-radius:4%;padding:5px;"></a>
+<li><b><i> Which species are at risk of going extinct? </b></i></li>
+Genetic data supports conservation of corals, plants, and invertebrates.
+
 <i>e.g</i>: Johnston E, Forsman ZH, Schmidt-Roach S, Pinzon J, Flot JF, Toonen RJ (2017) A genomic glance through the fog of plasticity and diversification in <i>Pocillopora</i>. <a href=https://www.nature.com/articles/s41598-017-06085-3>Nature Scientific Reports. 7:5991</a>
 </p>
 
 <BR CLEAR=LEFT>
 
-<p><a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-45"><img src="/images/plastic.jpg" alt="Plastic" style="width:300px; margin-right:20px;float:left;border-radius:5%;padding: 5px;">
-<ul>
-<li><b><i> How are species and populations related? </b></i></a> DNA provides a 'map' of relationships, revealing new species and hidden patterns of biodiversity.
+<p>
+<a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-45"><img src="/images/plastic.jpg" alt="Plastic" style="width:300px; margin-right:20px;float:left;border-radius:5%;padding:5px;"></a>
+<li><b><i> How are species and populations related? </b></i>
+DNA provides a 'map' of relationships, revealing new species and hidden patterns of biodiversity.
 </li>
-</ul>
 </p>
 
 <BR CLEAR=LEFT>
