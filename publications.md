@@ -4,21 +4,29 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1), updated June 2020: h-index 20, i10-index 29, 1,338 citations, • = students mentored
+[Google Scholar](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1), updated Oct 2020: h-index 21, i10-index 30, 1,506 citations, • = students mentored
 
-***Peer reviewed (n=55)*** [full cv](http://www2.hawaii.edu/~zac/misc/full_cv.pdf)
+Colín-García NA, Campos JE, Tello-Mussi JL, Chiappa-Carrara X, Arena-Ortiz ML, **Forsman ZH**; Arias-González JE (*in press*) Environmental variation is associated with increased morphological and molecular variation in Pseudodiploria corals. Marine Biodiversity
 
-Terraneo T•, Benzoni F, Arrigoni R, Baird A, Mariappan K, **Forsman ZH**, Wooster M, Bouwmeester J, Marshell A, Berumen M (*in press*) Phylogenomics and phylogeography of *Porites* from the Arabian Peninsula. Systematic Biology
+**Forsman ZH**, Page C, Vaughan D (*in press*) Coral Fusion: Harnessing coral clonality for reef restoration. in Active Coral Reef Restoration: New technologies for a changing planet. Ed. David Vaughan J Ross Publishing.
 
-Wada N, Yuasa H, Kajitani R, Gotoh Y, Ogura Y, Yoshimura D, Toyoda A, Tang S, Higashimura Y, Sweatman H, **Forsman ZH**, Bronstien O, Eyal G, Thongtham N, Hayashi T, Itoh T, Yasuda N (*in press*). Predominant subcuticular bacteria (*Spirochaetia sp.*) in the Indo-Pacific crown-of-thorns starfish and its whole genome sequence. Microbiome
+Torres A, **Forsman ZH**, Ravago-Gotanco R (2020) Shifts in coral clonality along a gradient of disturbance: insights on reproduction and dispersal of *Pocillopora acuta*. [Marine Biology 167, 161](https://link.springer.com/article/10.1007/s00227-020-03777-9)
 
-Brown N•, **Forsman ZH**, Tisthammer KT•, Richmond RH (2020) A resilient brooding coral in the broadcast spawning *Porites lobata* species complex: a new endemic, introduced species, mutant, or new adaptive potential? [Coral Reefs.](https://link.springer.com/article/10.1007%2Fs00338-020-01922-w)
+**Forsman ZH**, Ritson-williams R‡, Tishammer K, Knapp ISS, R.J. Toonen RJ (2020) Host-symbiont coevolution, cryptic structure, and bleaching susceptibility in a coral species complex (Scleractinia; Poritidae). [Scientific Reports 10, 16995.](https://rdcu.be/b8oqS)
 
-Tisthammer KH•, **Forsman ZH**, Toonen RJ, Richmond RH (2020) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. [PeerJ](https://peerj.com/articles/8550/)
+Wada N, Yuasa H, Kajitani R, Gotoh Y, Ogura Y, Yoshimura D, Toyoda A, Tang S, Higashimura Y, Sweatman H, **Forsman ZH**, Bronstien O, Eyal G, Thongtham N, Hayashi T, Itoh T, Yasuda N (*in press*). Predominant subcuticular bacteria (*Spirochaetia sp.*) in the Indo-Pacific crown-of-thorns starfish and its whole genome sequence. [Microbiome 8, 123](https://doi.org/10.1186/s40168-020-00880-3)
+
+**Forsman ZH** (2020) Divide and conquer: how the microfragmentation technique can help restore coral impacted by climate change and mass coral bleaching. [The Biologist, Royal Society of Biology, vol. 67. No1. London.](https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer)
+
+Brown N•, **Forsman ZH**, Tisthammer KT•, Richmond RH (2020) A resilient brooding coral in the broadcast spawning *Porites lobata* species complex: a new endemic, introduced species, mutant, or new adaptive potential? [Coral Reefs. 39,809-818](https://link.springer.com/article/10.1007%2Fs00338-020-01922-w)
+
+Tisthammer KH•, **Forsman ZH**, Toonen RJ, Richmond RH (2020) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. [PeerJ.8550](https://peerj.com/articles/8550/)
 
 Bowen BW, **Forsman ZH**, Whitney JL, Faucci A, Hoban M, Canfield SJ, Johnston EC•, Coleman RC, Copus JM•, Vicente J, Toonen RJ (2020) Synthesis: Adaptive Radiations in the Sea: What the Flock? [Journal of Heredity](http://richard-coleman.com/s/Bowen-et-al2020-Species-Radiations-in-the-Sea.pdf)
 
 Capel K•, Lopez C, Molto-Martin I, Zilberberg C, Creed JC, Knapp ISS, Hernandez M, **Forsman ZH**, Toonen RJ, Kitahara M, (2020) Atlantia, a new Dendrophylliidae genus (Cnidaria, Anthozoa, Scleractinia) from Eastern Atlantic. [PeerJ 8 e8633.](https://peerj.com/articles/8633/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
+
+Wada N, Yuasa H, Kajitani R, Gotoh Y, Ogura Y, Yoshimura D, Toyoda A, Tang S, Higashimura Y, Sweatman H, **Forsman ZH**, Bronstien O, Eyal G, Thongtham N, Hayashi T, Itoh T, Yasuda N (2020). Predominant subcuticular bacteria (Spirochaetia sp.) in the Indo-Pacific crown-of-thorns starfish and its whole genome sequence. [Biorxiv](https://doi.org/10.1101/2020.02.13.947093)
 
 Greene A•, **Forsman ZH**, Toonen RJ, Donahue M (2019) CoralCam: a flexible, low-cost ecological monitoring platform. [HarwareX7:E00089](https://www.sciencedirect.com/science/article/pii/S2468067219300537)
 
@@ -27,6 +35,10 @@ Iguchi A, Yoshioka Y, **Forsman ZH**, Knapp ISS, Toonen RJ, Hongo Y, Nagai S, Ya
 Cunha RL, **Forsman ZH**, Belderok R•, Knapp ISS, Castilho R, Toonen RJ, (2019) Rare coral under the genomic microscope: timing and relationships among Hawaiian *Montipora*. [BMC Evolutionary Biology. 19: 153](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1476-2)
 
 Terraneo TI•, Fusi M, Hume BCC, Arrigoni R, Voolstra CR, Benzoni F, **Forsman ZH**, Berumen ML (2019) Environmental latitudinal gradients and host specificity shape Symbiodiniaceae distribution in Red Sea *Porites* corals. [Journal of Biogeography. 46: 2323– 2335](https://www.researchgate.net/profile/Christian_Voolstra/publication/335161250_jbi13672-sup-0001-appendixs1docx/data/5d53f2df45851530407324f0/jbi13672-sup-0001-appendixs1.docx)
+
+Tisthammer KH, **Forsman ZH**, Richmond RH (2019) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. Biorxiv; http://dx.doi.org/10.1101/574665
+
+Miller M. Blackburn H, **Forsman ZH**, Hagerdorn M, Lohr K, Moulding A, O’Neil K, Penfold L, Winders S (2019) Acropora recovery implementation team working group report and recommendations on Genetic Banking. National Marine Fisheries Service. p.10
 
 Copus JM•, Montgomery WL, **Forsman ZH**, Bowen BW, Toonen RJ (2018) Geopolitical species revisited: Genomic and morphologial data indicate three threatened and endangered species in the Roundtail Chub *Gila robusta* species complex (Teleostei, Cyprinidae) is a single species. [PeerJ 6:e5605](https://doi.org/10.7717/peerj.5605)
 
@@ -82,7 +94,7 @@ Prada C, Neigel JE, Yednock B, Stake J, **Forsman ZH**, Baums IB, Hellberg ME (2
 
 Toonen RJ, Puritz JB, **Forsman ZH**, Whitney J, Bird CE, Fernandez-Silva I, Andrews K. (2013). ezRAD: a simplified method for genomic genotyping in non-model organisms. [Peer J 1:e203; DOI 10.7717/peerj.203](https://peerj.com/articles/203/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_0&utm_medium=TrendMD)
 
-**Forsman ZH**, Marti-Puig P•, Haverkort RD•, Maragos JE, Toonen RJ (2013a) Extreme phenotypic polymorphism in *Pocillopora* (Anthozoa: Scleractinia); corallite morphology corresponds to mitochondrial groups, while taxonomy based on colony morphology does not. [Bulletin of Marine Science 03/2013; 90(1).](https://www.ingentaconnect.com/contentone/umrsmas/bullmar/2014/00000090/00000001/art00008?crawler=true)
+**Forsman ZH**, Marti-Puig P•, Haverkort RD•, Maragos JE, Toonen RJ (2013) Extreme phenotypic polymorphism in *Pocillopora* (Anthozoa: Scleractinia); corallite morphology corresponds to mitochondrial groups, while taxonomy based on colony morphology does not. [Bulletin of Marine Science 03/2013; 90(1).](https://www.ingentaconnect.com/contentone/umrsmas/bullmar/2014/00000090/00000001/art00008?crawler=true)
 
 **Forsman ZH**, Johnston EC•, Brooks AJ, Adam TC, Toonen RJ (2013b) Genetic evidence for regional isolation of *Pocillopora* corals from Moorea. [Oceanography 26(3):153–155](https://www.jstor.org/stable/24862077)
 
@@ -90,17 +102,21 @@ Luck DG•, **Forsman ZH**, Toonen RJ, Leicht SJ•, Kahng SE (2013) Polyphyly, 
 
 Farrar CE, **Forsman ZH**, Gates RD, Leong JC, Toonen RJ (2013) Observing the Coral Symbiome Using Laser Scanning Confocal Microscopy. [Science Vol. 399 (6119) pp. 518-519](https://www.cheric.org/research/tech/periodicals/view.php?seq=1089099)
 
+**Forsman ZH**, Knapp ISS, Toonen RJ. (2013) Edwin W. Pauley Summer program report. Advancing tools for biodiversity studies: genomics and bioinformatics of cnidarians with a focus on corals. Hawaiʻi Institute of Marine Biology. University of Hawaiʻi at Mānoa.
+
 Stat M, Baker A, Correa A, **Forsman ZH**, Huggett M, Pochon X, Skillings D, Starger C, van Oppen M, Gates RD (2012) Molecular delineation of species in the coral holobiont. [Advances in Marine Biology vol. 63 p. 1-65](https://www.academia.edu/download/49953437/Molecular_Delineation_of_Species_in_the_20161028-21049-wfsn9o.pdf)
 
 **Forsman ZH**, Kimokeo BK•, Hunter CL, Toonen RJ (2012) Coral farming: species specific effects of light, water motion and artificial foods. [Journal of the Marine Biological Association of the United Kingdom 92: pp 721-729](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/coral-farming-effects-of-light-water-motion-and-artificial-foods/BC8845A6BF25F08A37D398A0137C4AEF)
+
+**Forsman ZH**, Peyton KA, Knapp ISS, Toonen RJ (2012) Benthic surveys for the Waikīkī beach sand replenishment project. [State of Hawaiʻi Division of Aquatic Resources Report. p. 67](http://www.academia.edu/download/32924896/2013_WaikikiBenthicSurveysFinalSubmitted.pdf)
 
 Work TM, **Forsman ZH**, Szabo Z, Lewis TD, Aeby GS, Toonen RJ (2011) Inter-specific coral chimerism: genetically distinct multicellular structures associated with tissue loss in *Montipora capitata*. [PLoS One 6(7) e22869](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0022869)
 
 Baranets V•, **Forsman ZH**, Karl SA (2011) Microsatellite loci for the plate-and-pillar coral, *Porites rus*. [Conservation Genetic Resources 3: 519 – 521.](https://www.researchgate.net/profile/Zac_Forsman/publication/251418088_Microsatellite_loci_for_the_plate-and-pillar_coral_Porities_rus/links/54669a470cf2f5eb18017230/Microsatellite-loci-for-the-plate-and-pillar-coral-Porities-rus.pdf)
 
-**Forsman ZH**, Concepcion GT•, Haverkort RD•, Shaw RW, Maragos JE, Toonen RJ (2010a) Ecomorph or endangered coral? DNA and microstructure reveal Hawaiian species complexes: *Montipora dilatata/flabellata/turgescens* & M. *patula/verilli*. [PLoS One 5(12):e15021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996308/)
+**Forsman ZH**, Concepcion GT•, Haverkort RD•, Shaw RW, Maragos JE, Toonen RJ (2010) Ecomorph or endangered coral? DNA and microstructure reveal Hawaiian species complexes: *Montipora dilatata/flabellata/turgescens* & M. *patula/verilli*. [PLoS One 5(12):e15021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996308/)
 
-**Forsman ZH**, Martinez JA•, Maragos JE, Toonen RJ (2010b) Resurrection of *Porites hawaiiensis* Vaughan 1907; a Hawaiian coral obscured by small size, cryptic habitat and confused taxonomy. [Zootaxa 2624:67-68](https://www.mapress.com/j/zt/article/viewFile/zootaxa.2624.1.3/18374)
+**Forsman ZH**, Martinez JA•, Maragos JE, Toonen RJ (2010) Resurrection of *Porites hawaiiensis* Vaughan 1907; a Hawaiian coral obscured by small size, cryptic habitat and confused taxonomy. [Zootaxa 2624:67-68](https://www.mapress.com/j/zt/article/viewFile/zootaxa.2624.1.3/18374)
 
 **Forsman ZH**, Birkeland C (2009) *Porites randalli*: a new coral species (Scleractinia, Poritidae) from Samoa. [Zootaxa 2244:51-59](https://www.mapress.com/j/zt/article/viewFile/zootaxa.2244.1.2/31391)
 
@@ -108,43 +124,22 @@ Brown DP, Basch L, Barshis D•, **Forsman ZH**, D Fenner D, Goldberg J (2009) A
 
 **Forsman ZH**, Barshis D•, Hunter CL, Toonen RJ (2009) Shape-shifting corals: Molecular markers show morphology is evolutionarily plastic in *Porites*. [BMC Evolutionary Biology 9:45](https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-9-45)
 
+**Forsman ZH**, Parry M, Pelleteri S, Cubit J, Hunter CL, Gulko D, Everson A, Calahan C, Foster K, Ziemann D (2008) Sea urchin (Tripneustes gratilla) aquaculture for biocontrol of invasive algae and reef restoration in Hawaiʻi. U.S. Department of the Interior Fish and Wildlife Service Pacific Islands Office p.10
+
+**Forsman ZH**, Phillips J, Gulko DA, Foster KB (2008) Primary restoration: enhancement of coral recovery at the M/V Cape Flattery incident site. U.S. Department of the Interior Fish and Wildlife Service Pacific Islands Office. p.24
+
 Keeley S, **Forsman ZH**, Chan R (2007) A phylogeny of the “Evil Tribe” (Vernonieae: Compositae) reveals old/new world long distance dispersal: support from separate and combined congruent datasets (trnl-F, ndhF, ITS). [Molecular Phylogenetics and Evolution 89-103](https://www.academia.edu/download/11975651/2007_Keeleyetal2007MPEvernonieae.pdf)
 
-**Forsman ZH**, Rinkevich B, Hunter CL (2006a) Investigating fragment size for culturing reef-building corals (*Porites lobata* and *P. compressa*) in ex situ nurseries. [Aquaculture 261: 89-97](http://www.academia.edu/download/11975670/2006_ForsmanAquaculture.pdf)
+Foster KB, **Forsman ZH**, Sukhraj NC‡ (2007) Barbers Point (Kalaeloa) Harbor deep draft harbor fish and wildlife coordination act investigation marine assessment and impact analysis. U.S. Department of the Interior Fish and Wildlife Service Pacific Islands Office. p. 82
 
-**Forsman ZH**, Wellington GM, Hunter CL G.E. Fox (2006b) Is the ITS region the solution to the ‘species problem’ in corals? Intragenomic variation and alignment permutation in *Porites, Siderastrea* and outgroup taxa. [10th International Coral Reef Symp 14-23](http://www.academia.edu/download/38115856/10ICRS.pdf)
+**Forsman ZH**, Hunter CL (2007) Propagation of Hawaiian corals for reef restoration. Hawaiian Coral Reef Initiation/NOAA report. p.18
+
+**Forsman ZH**, Rinkevich B, Hunter CL (2006) Investigating fragment size for culturing reef-building corals (*Porites lobata* and *P. compressa*) in ex situ nurseries. [Aquaculture 261: 89-97](http://www.academia.edu/download/11975670/2006_ForsmanAquaculture.pdf)
+
+**Forsman ZH**, Wellington GM, Hunter CL G.E. Fox (2006) Is the ITS region the solution to the ‘species problem’ in corals? Intragenomic variation and alignment permutation in *Porites, Siderastrea* and outgroup taxa. [10th International Coral Reef Symp 14-23](http://www.academia.edu/download/38115856/10ICRS.pdf)
 
 **Forsman ZH**, Guzman HM, Chen CA, Fox GE, Wellington GM (2005) An ITS region phylogeny of *Siderastrea* (Cnidaria:Anthozoa); is *S. glynni* endangered or introduced? [Coral Reefs 24: 343-347](https://repository.si.edu/bitstream/handle/10088/3869/Forsman_et_al_%28S._Glynni%29_2005.pdf?sequence=1&isAllowed=y)
 
 **Forsman ZH**, Lednicky JA, Fox GE, Willson RC, White Z, Halvorson S, Wong C, Lewis AM, Butel JS (2004) Phylogenetic analysis of polyomavirus simian virus 40 from monkeys and humans reveals genetic variation. [Journal of Virology 78(17): 9306-9316](https://jvi.asm.org/content/jvi/78/17/9306.full.pdf)
-
-***Other publications (n=14)***
-
-**Forsman ZH**, Page C, Vaughan D (in press) Coral Fusion: Harnessing coral clonality for reef restoration. in Active Coral Reef Restoration: New technologies for a changing planet. Ed. David Vaughan J Ross Publishing.
-
-**Forsman ZH** (2020) Divide and conquer: how the microfragmentation technique can help restore coral impacted by climate change and mass coral bleaching. [The Biologist, Royal Society of Biology, vol. 67. No1. London.](https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2278-divide-and-conquer)
-
-Wada N, Yuasa H, Kajitani R, Gotoh Y, Ogura Y, Yoshimura D, Toyoda A, Tang S, Higashimura Y, Sweatman H, **Forsman ZH**, Bronstien O, Eyal G, Thongtham N, Hayashi T, Itoh T, Yasuda N (2020). Predominant subcuticular bacteria (Spirochaetia sp.) in the Indo-Pacific crown-of-thorns starfish and its whole genome sequence. [Biorxiv;](https://doi.org/10.1101/2020.02.13.947093)
-
-Tisthammer KH, **Forsman ZH**, Richmond RH (2019) Genetic structure is stronger across human-impacted habitats than among islands in the coral *Porites lobata*. [Biorxiv;](http://dx.doi.org/10.1101/574665)
-
-Miller M. Blackburn H, **Forsman ZH**, Hagerdorn M, Lohr K, Moulding A, O’Neil K, Penfold L, Winders S (2019) *Acropora* recovery implementation team working group report and recommendations on Genetic Banking. National Marine Fisheries Service. p.10
-
-**Forsman ZH**, Concepcion GT•, Haverkort RD•, Shaw RW, Maragos JE, Toonen RJ (2010) Is *Montipora dilatata* an endangered coral species or an ecotype? Genes and skeletal microstructure lump seven Hawaiian species into four groups. NOAA Report. p.20
-
-**Forsman ZH**, Concepcion GT•, Haverkort RD•, Maragos JE, Toonen (2009) Genetic and morphological characterization of a coral Species of Concern, *Montipora dilatata*, in Kaneʻohe Bay, Oʻahu, Hawaiʻi. NOAA Fisheries Service Pacific Islands Regional
-Office FY 2008 Report. p.15
-
-**Forsman ZH**, Parry M, Pelleteri S, Cubit J, Hunter CL, Gulko D, Everson A, Calahan C, Foster K, Ziemann D (2008) Sea urchin (*Tripneustes gratilla*) aquaculture for biocontrol of invasive algae and reef restoration in Hawaiʻi. U.S. Department of the Interior Fish and Wildlife Service Pacific Islands Office p.10
-
-**Forsman ZH**, Phillips J, Gulko DA, Foster KB (2008) Primary restoration: enhancement of coral recovery at the M/V Cape Flattery incident site. U.S. Department of the Interior Fish and Wildlife Service Pacific Islands Office. p.24
-
-Foster KB, **Forsman ZH**, Sukhraj NC• (2007) Barbers Point (Kalaeloa) Harbor deep draft harbor fish and wildlife coordination act investigation marine assessment and impact analysis. U.S. Department of the Interior Fish and Wildlife Service Pacific Islands Office. p. 82
-
-**Forsman ZH**, Peyton KA, Knapp ISS, Toonen RJ (2012) Benthic surveys for the Waikīkī beach sand replenishment project. [State of Hawaiʻi Division of Aquatic Resources Report. p. 67](http://www.academia.edu/download/32924896/2013_WaikikiBenthicSurveysFinalSubmitted.pdf)
-
-**Forsman ZH**, Hunter CL (2007) Propagation of Hawaiian corals for reef restoration. Hawaiian Coral Reef Initiation/NOAA report. p.18
-
-**Forsman ZH**, Hunter CL (2006) Origins and relationships of the Hawaiian reef coral *Porites*; taxonomy, life history, endemicity and population genetics. Hawaiian Coral Reef Initiation/NOAA report, p. 12
 
 **Forsman ZH** (2003) Phylogeny and Phylogeography of Porites & Siderastrea (Scleractinia: Cnidaria): Species in the Caribbean and Eastern Pacific: Based on the Nuclear Ribosomal ITS Region. [PhD Dissertation. University of Houston.](https://www.researchgate.net/profile/Zac_Forsman/publication/233802462_Phylogeny_and_Phylogeography_of_Porites_Siderastrea_Scleractinia_Cnidaria_Species_in_The_Caribbean_and_Eastern_Pacific_Based_on_The_Nuclear_Ribosomal_ITS_Region/links/09e4150bad44ed2686000000/Phylogeny-and-Phylogeography-of-Porites-Siderastrea-Scleractinia-Cnidaria-Species-in-The-Caribbean-and-Eastern-Pacific-Based-on-The-Nuclear-Ribosomal-ITS-Region.pdf)
