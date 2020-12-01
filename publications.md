@@ -4,11 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1), updated Oct 2020: h-index 21, i10-index 30, 1,506 citations, • = students mentored
-
-Colín-García NA, Campos JE, Tello-Mussi JL, Chiappa-Carrara X, Arena-Ortiz ML, **Forsman ZH**; Arias-González JE (*in press*) Environmental variation is associated with increased morphological and molecular variation in Pseudodiploria corals. Marine Biodiversity
+[Google Scholar](https://scholar.google.com/citations?user=MyhFvt4AAAAJ&hl=en&authuser=1), updated Nov 2020: h-index 21, i10-index 30, 1,517 citations, • = students mentored
 
 **Forsman ZH**, Page C, Vaughan D (*in press*) Coral Fusion: Harnessing coral clonality for reef restoration. in Active Coral Reef Restoration: New technologies for a changing planet. Ed. David Vaughan J Ross Publishing.
+
+Colín-García NA, Campos JE, Tello-Mussi JL, Chiappa-Carrara X, Arena-Ortiz ML, **Forsman ZH**; Arias-González JE (2020) Environmental variation is associated with increased morphological and molecular variation in Pseudodiploria corals. [Marine Biodiversity. 50, 111](https://doi.org/10.1007/s12526-020-01139-8)
 
 Torres A, **Forsman ZH**, Ravago-Gotanco R (2020) Shifts in coral clonality along a gradient of disturbance: insights on reproduction and dispersal of *Pocillopora acuta*. [Marine Biology 167, 161](https://link.springer.com/article/10.1007/s00227-020-03777-9)
 
